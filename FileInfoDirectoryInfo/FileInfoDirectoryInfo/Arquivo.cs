@@ -4,5 +4,6 @@ namespace FileInfoDirectoryInfo
 {
     public class Arquivo
     {
+        //sss
     }
 }
